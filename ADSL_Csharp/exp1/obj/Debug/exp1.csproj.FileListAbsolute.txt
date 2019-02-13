@@ -1,0 +1,78 @@
+c:\users\jawher\documents\visual studio 2013\Projects\exp1\exp1\bin\Debug\exp1.exe.config
+C:\Users\jawher\documents\visual studio 2013\Projects\exp1\exp1\bin\Debug\exp1.exe
+C:\Users\jawher\documents\visual studio 2013\Projects\exp1\exp1\bin\Debug\exp1.pdb
+C:\Users\jawher\documents\visual studio 2013\Projects\exp1\exp1\obj\Debug\exp1.csprojResolveAssemblyReference.cache
+C:\Users\jawher\documents\visual studio 2013\Projects\exp1\exp1\obj\Debug\exp1.Properties.Resources.resources
+C:\Users\jawher\documents\visual studio 2013\Projects\exp1\exp1\obj\Debug\exp1.csproj.GenerateResource.Cache
+C:\Users\jawher\documents\visual studio 2013\Projects\exp1\exp1\obj\Debug\exp1.exe
+C:\Users\jawher\documents\visual studio 2013\Projects\exp1\exp1\obj\Debug\exp1.pdb
+C:\Users\jawher\documents\visual studio 2013\Projects\exp1\exp1\obj\Debug\exp1.MDIParent1.resources
+C:\Users\jawher\documents\visual studio 2013\Projects\exp1\exp1\obj\Debug\exp1.connexion.resources
+C:\Users\jawher\documents\visual studio 2013\Projects\exp1\exp1\obj\Debug\exp1.gestionutilisateur.resources
+C:\Users\jawher\Documents\Visual Studio 2013\Projects\adsl\exp1\bin\Debug\exp1.exe.config
+C:\Users\jawher\Documents\Visual Studio 2013\Projects\adsl\exp1\obj\Debug\exp1.exe
+C:\Users\jawher\Documents\Visual Studio 2013\Projects\adsl\exp1\obj\Debug\exp1.pdb
+C:\Users\jawher\Documents\Visual Studio 2013\Projects\adsl\exp1\bin\Debug\exp1.exe
+C:\Users\jawher\Documents\Visual Studio 2013\Projects\adsl\exp1\bin\Debug\exp1.pdb
+C:\Users\jawher\Documents\Visual Studio 2013\Projects\adsl\exp1\obj\Debug\exp1.connexion.resources
+C:\Users\jawher\Documents\Visual Studio 2013\Projects\adsl\exp1\obj\Debug\exp1.gestionutilisateur.resources
+C:\Users\jawher\Documents\Visual Studio 2013\Projects\adsl\exp1\obj\Debug\exp1.MDIParent1.resources
+C:\Users\jawher\Documents\Visual Studio 2013\Projects\adsl\exp1\obj\Debug\exp1.Properties.Resources.resources
+C:\Users\jawher\Documents\Visual Studio 2013\Projects\adsl\exp1\obj\Debug\exp1.csproj.GenerateResource.Cache
+C:\Users\jawher\Documents\Visual Studio 2013\Projects\adsl\exp1\obj\Debug\exp1.gestionclient.resources
+C:\Users\jawher\Documents\Visual Studio 2013\Projects\adsl\exp1\obj\Debug\exp1.gestiontarif.resources
+C:\Users\jawher\Documents\Visual Studio 2013\Projects\adsl\exp1\obj\Debug\exp1.csprojResolveAssemblyReference.cache
+C:\Users\jawher\Documents\Visual Studio 2013\Projects\adsl\exp1\obj\Debug\exp1.gestionContrat.resources
+C:\Users\jawher\Documents\Visual Studio 2013\Projects\adsl\exp1\obj\Debug\exp1.gestionOperation.resources
+C:\Users\jawher\Desktop\adsl\adsl\exp1\obj\Debug\exp1.connexion.resources
+C:\Users\jawher\Desktop\adsl\adsl\exp1\obj\Debug\exp1.gestionclient.resources
+C:\Users\jawher\Desktop\adsl\adsl\exp1\obj\Debug\exp1.gestionContrat.resources
+C:\Users\jawher\Desktop\adsl\adsl\exp1\obj\Debug\exp1.gestionOperation.resources
+C:\Users\jawher\Desktop\adsl\adsl\exp1\obj\Debug\exp1.gestiontarif.resources
+C:\Users\jawher\Desktop\adsl\adsl\exp1\obj\Debug\exp1.gestionutilisateur.resources
+C:\Users\jawher\Desktop\adsl\adsl\exp1\obj\Debug\exp1.MDIParent1.resources
+C:\Users\jawher\Desktop\adsl\adsl\exp1\obj\Debug\exp1.Properties.Resources.resources
+C:\Users\jawher\Desktop\adsl\adsl\exp1\obj\Debug\exp1.csproj.GenerateResource.Cache
+C:\Users\jawher\Desktop\adsl\adsl\exp1\bin\Debug\exp1.exe.config
+C:\Users\jawher\Desktop\adsl\adsl\exp1\bin\Debug\exp1.exe
+C:\Users\jawher\Desktop\adsl\adsl\exp1\bin\Debug\exp1.pdb
+C:\Users\jawher\Desktop\adsl\adsl\exp1\obj\Debug\exp1.exe
+C:\Users\jawher\Desktop\adsl\adsl\exp1\obj\Debug\exp1.pdb
+C:\Users\jawher\Desktop\adsl\adsl\exp1\obj\Debug\exp1.help.resources
+C:\Users\jawher\Desktop\adsl\adsl\exp1\obj\Debug\exp1.csprojResolveAssemblyReference.cache
+C:\Users\jawher\Desktop\autre\adsl\adsl\exp1\bin\Debug\exp1.exe.config
+C:\Users\jawher\Desktop\autre\adsl\adsl\exp1\obj\Debug\exp1.exe
+C:\Users\jawher\Desktop\autre\adsl\adsl\exp1\obj\Debug\exp1.pdb
+C:\Users\jawher\Desktop\autre\adsl\adsl\exp1\bin\Debug\exp1.exe
+C:\Users\jawher\Desktop\autre\adsl\adsl\exp1\bin\Debug\exp1.pdb
+C:\Users\jawher\Desktop\autre\adsl\adsl\exp1\obj\Debug\exp1.csprojResolveAssemblyReference.cache
+C:\Users\jawher\Desktop\autre\adsl\adsl\exp1\obj\Debug\exp1.connexion.resources
+C:\Users\jawher\Desktop\autre\adsl\adsl\exp1\obj\Debug\exp1.gestionclient.resources
+C:\Users\jawher\Desktop\autre\adsl\adsl\exp1\obj\Debug\exp1.gestionContrat.resources
+C:\Users\jawher\Desktop\autre\adsl\adsl\exp1\obj\Debug\exp1.gestionOperation.resources
+C:\Users\jawher\Desktop\autre\adsl\adsl\exp1\obj\Debug\exp1.gestiontarif.resources
+C:\Users\jawher\Desktop\autre\adsl\adsl\exp1\obj\Debug\exp1.gestionutilisateur.resources
+C:\Users\jawher\Desktop\autre\adsl\adsl\exp1\obj\Debug\exp1.help.resources
+C:\Users\jawher\Desktop\autre\adsl\adsl\exp1\obj\Debug\exp1.MDIParent1.resources
+C:\Users\jawher\Desktop\autre\adsl\adsl\exp1\obj\Debug\exp1.Properties.Resources.resources
+C:\Users\jawher\Desktop\autre\adsl\adsl\exp1\obj\Debug\exp1.csproj.GenerateResource.Cache
+C:\Users\jawher\Desktop\Autres\adsl\adsl\exp1\bin\Debug\exp1.exe.config
+C:\Users\jawher\Desktop\Autres\adsl\adsl\exp1\bin\Debug\exp1.exe
+C:\Users\jawher\Desktop\Autres\adsl\adsl\exp1\bin\Debug\exp1.pdb
+C:\Users\jawher\Desktop\Autres\adsl\adsl\exp1\bin\Debug\MySql.Data.dll
+C:\Users\jawher\Desktop\Autres\adsl\adsl\exp1\bin\Debug\MySql.Data.xml
+C:\Users\jawher\Desktop\Autres\adsl\adsl\exp1\obj\Debug\exp1.csprojAssemblyReference.cache
+C:\Users\jawher\Desktop\Autres\adsl\adsl\exp1\obj\Debug\exp1.connexion.resources
+C:\Users\jawher\Desktop\Autres\adsl\adsl\exp1\obj\Debug\exp1.gestionclient.resources
+C:\Users\jawher\Desktop\Autres\adsl\adsl\exp1\obj\Debug\exp1.gestionContrat.resources
+C:\Users\jawher\Desktop\Autres\adsl\adsl\exp1\obj\Debug\exp1.gestionOperation.resources
+C:\Users\jawher\Desktop\Autres\adsl\adsl\exp1\obj\Debug\exp1.gestiontarif.resources
+C:\Users\jawher\Desktop\Autres\adsl\adsl\exp1\obj\Debug\exp1.gestionutilisateur.resources
+C:\Users\jawher\Desktop\Autres\adsl\adsl\exp1\obj\Debug\exp1.help.resources
+C:\Users\jawher\Desktop\Autres\adsl\adsl\exp1\obj\Debug\exp1.MDIParent1.resources
+C:\Users\jawher\Desktop\Autres\adsl\adsl\exp1\obj\Debug\exp1.Properties.Resources.resources
+C:\Users\jawher\Desktop\Autres\adsl\adsl\exp1\obj\Debug\exp1.csproj.GenerateResource.cache
+C:\Users\jawher\Desktop\Autres\adsl\adsl\exp1\obj\Debug\exp1.csproj.CoreCompileInputs.cache
+C:\Users\jawher\Desktop\Autres\adsl\adsl\exp1\obj\Debug\exp1.csproj.CopyComplete
+C:\Users\jawher\Desktop\Autres\adsl\adsl\exp1\obj\Debug\exp1.exe
+C:\Users\jawher\Desktop\Autres\adsl\adsl\exp1\obj\Debug\exp1.pdb
